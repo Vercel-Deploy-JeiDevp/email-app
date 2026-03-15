@@ -4,6 +4,7 @@ module.exports = {
         rootPath: "curso-completo-de-arte-con-resina",
         subject: "🎉 Obtén 40% de descuento + E-Book gratis",
         template: "subscription-40-off.mustache",
+        sheetName: "Manos Creativa - Leads",
         payload: {
             appName: "Manos Creativa",
             linkDiscount: "https://linkera.click/vjNBdS",
